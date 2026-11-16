@@ -63,7 +63,7 @@ Setiap kali ngerjain proyek ini, saya catat tanggal, apa yang dikerjain, sama ki
 ## Penggunaan AI
 
 Pada 16 November 2026, saya pakai Codex buat bantu ngerapihin HTML dan CSS, 
-**Perkiraan penggunaan AI** 40 % (saya isi sebelum dikumpulkan).
+**Perkiraan penggunaan AI** 40 % 
 
 <details>
 <summary>Cuplikan prompt yang saya pakai</summary>
